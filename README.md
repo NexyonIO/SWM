@@ -1,0 +1,2 @@
+# SDE
+Simple Desktop Environment
