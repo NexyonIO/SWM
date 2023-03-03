@@ -1,2 +1,2 @@
-# SDE
-Simple Desktop Environment
+# SWM
+Simple Window Manager
